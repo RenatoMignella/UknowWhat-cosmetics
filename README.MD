@@ -1,6 +1,6 @@
 # Uknowwhat Cosmetics
 
-- The Uknowwhat Cosmetics website is a page with the porpouse of selling curly hair products to the Dublin curly hair population.
+- The Uknowwhat Cosmetics website is a page with the purpose of selling curly hair products to the Dublin curly hair population.
 ###
 
 - Helps people finds the adequate products for their curly hair at fair prices and with great service.
@@ -55,7 +55,7 @@
 
 - **About page**
 
-  - The about page will contain the title and liks as the main page and it will have a section about us logo and vision and values that will describe the key points that the company want to show to the user.
+  - The "About" page will contain the title and liks as the main page and it will have a section about us logo and vision and values that will describe the key points that the company want to show to the user.
 
   ###
 
@@ -65,7 +65,7 @@
 
 - **Contact page**
 
-  - The Contact page will have the title and links as the other pageas and it will countain a contact us form in case of questions or suggestions.
+  - The "Contact" page will have the title and links as the other pageas and it will countain a contact us form in case of questions or suggestions.
 
   ###
 
