@@ -61,7 +61,7 @@
 
   - It will have a footer as the Home page with the social media webpages and copyright.
 
-![About us ](//assets/images/about-us-section-screen-shoot.JPG)
+![About us ](/assets/images/about-us-section-screen-shoot.JPG)
 
 - **Contact page**
 
