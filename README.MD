@@ -61,7 +61,7 @@
 
   - It will have a footer as the Home page with the social media webpages and copyright.
 
-![About us ](//assets/images/about%20us%20section%20screen%20shoot.JPG)
+![About us ](//assets/images/about-us-section-screen-shoot.JPG)
 
 - **Contact page**
 
@@ -125,7 +125,7 @@ I've used HTML CSS and Bootstrap.
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - 
+The live link can be found here - https://renatomignella.github.io/UknowWhat-cosmetics/index.html
 
 ## Credits
 
