@@ -71,7 +71,7 @@
 
   - The form has validation on the three sections with a logo image black and white at the right side and a submit button it has the social media pages and copyright.
 
-![Footer](//assets/images/contact%20page%20screen%20shoot.JPG)
+![Footer](/assets/images/contact%20page%20screen%20shoot.JPG)
 
 ## Testing
 
@@ -82,17 +82,17 @@
 ### Performance Test
 
 - Home
-  ![Home](//assets/images/index-performance.JPG)
+  ![Home](/assets/images/index-performance.JPG)
 
 ###
 
 - About
-  ![About](//assets/images/about-performance.JPG)
+  ![About](/assets/images/about-performance.JPG)
 
 ###
 
 - Contact
-  ![Contact](//assets/images/contact-performance.JPG)
+  ![Contact](/assets/images/contact-performance.JPG)
 
 ### Features Left to Implement
 
