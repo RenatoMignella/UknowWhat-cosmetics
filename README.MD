@@ -35,7 +35,7 @@
 
 - **The Image Gallery**
 
-  - The Image gallery contains curly hair models that incentive the user to see the beaulty of what the producs can make on curly hair.
+  - The Image gallery contains curly hair models that incentive the user to see the beauty of what the products can make on curly hair.
 
   ###
 
