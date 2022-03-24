@@ -129,13 +129,13 @@ The live link can be found [Here](https://renatomignella.github.io/UknowWhat-cos
 ) 
 ## Credits
 
-- Carrousel slider script(index 160 until 166 ) and Navbar example taken from Bootstrap docs and old project [Mignellozom](https://renatomignella.github.io/Mignellozom/about.html) [Bootstrap docs](https://getbootstrap.com/docs/5.1/components/)
+- Carrousel slider and script(index 160 until 166 ) and Navbar example taken from [Bootstrap docs](https://getbootstrap.com/docs/5.1/components/) and old project [Mignellozom](https://renatomignella.github.io/Mignellozom/about.html)  
  ####
 
- - About partially taken from a old project [mignellozom](https://renatomignella.github.io/Mignellozom/about.html) learned on [Bootstrap course](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/)
+ - "About" partially taken from a old project [Mignellozom](https://renatomignella.github.io/Mignellozom/about.html) learned on [Bootstrap course](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/)
  ####
 
- - Contact section used from a old project [Mignella](https://renatomignella.github.io/Mignella_Book/#contact) learned on [Bootstrap course](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/)
+ - "Contact" section used from a old project [Mignella](https://renatomignella.github.io/Mignella_Book/#contact) learned on [Bootstrap course](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/)
  ####
 
 - Ligth box app used from the below repository under MIT license [Lightbox](https://ashleydw.github.io/lightbox/) learned on [Bootstrap course](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/)
