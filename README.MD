@@ -77,7 +77,7 @@
 
 - I've tested the page on the most popular browsers Chrome Safari and Edge.
 
-- as tested previously on "AM I responsive" and page the page is responsive in mobile and desktop.
+- as tested previously on "AM I responsive" and page the page is responsive .
 
 ### Performance Test
 
@@ -125,12 +125,12 @@ I've used HTML CSS and Bootstrap.
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - https://renatomignella.github.io/UknowWhat-cosmetics/index.html
-
+The live link can be found [Here](https://renatomignella.github.io/UknowWhat-cosmetics/index.html
+) 
 ## Credits
 
-- Carrousel example taken from Bootstrap docs
- [Bootstrap docs]( https://getbootstrap.com/docs/5.1/components/carousel/)
+- Carrousel and Navbar example taken from Bootstrap docs
+ [Bootstrap docs](https://getbootstrap.com/docs/5.1/components/)
  ###
 
 - ligth box app used from the below repository under MIT license [Lightbox](https://ashleydw.github.io/lightbox/)
